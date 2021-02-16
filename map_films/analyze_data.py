@@ -1,3 +1,6 @@
+'''
+The module that read data and analyze it.
+'''
 from math import cos, sin, asin, sqrt, radians
 from geopy.geocoders import Nominatim
 from geopy.exc import GeocoderUnavailable
