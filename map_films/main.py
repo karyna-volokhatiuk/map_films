@@ -1,3 +1,6 @@
+'''
+The main module.
+'''
 from analyze_data import *
 from create_map import *
 
