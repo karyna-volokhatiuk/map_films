@@ -1,5 +1,5 @@
 '''
-The module that create the map.
+The module that creates the map.
 '''
 import folium
 
