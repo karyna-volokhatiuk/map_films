@@ -16,6 +16,8 @@ Then user should input coordinates of his location.
 
 Generation of the map will be not more than 3 minutes.
 
+![run](run.png?raw=true'run')
+
 To look at the map follow the link 'world_map.html'
 after appearing of a message about finishing the work.
 
