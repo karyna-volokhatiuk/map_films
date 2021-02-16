@@ -24,5 +24,7 @@ after appearing of a message about finishing the work.
 To see the name of the film on the map click on an icon.
 
 ![films_map](films_map.png?raw=true'films_map')
+
+![films_map](films_map_1.png?raw=true'films_map')
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
